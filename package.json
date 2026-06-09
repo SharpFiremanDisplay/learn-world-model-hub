@@ -1,0 +1,14 @@
+{
+  "name": "learn-world-model-hub",
+  "version": "3.0.2",
+  "description": "A powerful and flexible tool",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node scripts/postinstall.js",
+    "start": "node index.js",
+    "test": "echo \"No tests\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0"
+}
